@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="css/style.css" />
+    <title>Quiz</title>
+  </head>
+  <body>
+    <div class="home-box custon-box">
+      <h3>Instrucão:</h3>
+      <p>Número Total de Perguntas:<span class="total-question"> </span></p>
+      <button type="button" class="btn" onclick="starQuiz()">
+        Iniciar Quiz
+      </button>
+    </div>
+    <div class="quiz-box custon-box hide">
+      <div class="question-number"></div>
+      <!-- perguntas do quiz-->
+      <div class="question-text"></div>
+      <!--caixa de respostas possiveis-->
+      <div class="option-container"></div>
+      <!--botão de proxima pergunta-->
+      <div class="next-question-btn">
+        <button type="button" class="btn" onclick="next()">Próxima</button>
+      </div>
+      <!--caixa de respostas do quiz-->
+      <div class="answers-indicator"></div>
+    </div>
+    <div class="result-box custon-box hide">
+      <h1>Resultado</h1>
+      <table>
+        <tr>
+          <td>Total de Questões</td>
+          <td><span class="total-question"></span></td>
+        </tr>
+        <tr>
+          <td>Tentativas</td>
+          <td><span class="total-attemp"></span></td>
+        </tr>
+        <tr>
+          <td>Acertos</td>
+          <td><span class="total-correct"></span></td>
+        </tr>
+        <tr>
+          <td>Erros</td>
+          <td><span class="total-wrong"></span></td>
+        </tr>
+        <tr>
+          <td>Porcentagem</td>
+          <td><span class="percentage"></span></td>
+        </tr>
+        <tr>
+          <td>Acertos / Erros</td>
+          <td><span class="total-score"></span></td>
+        </tr>
+      </table>
+      <button type="button" class="btn" onclick="tryAgainQuiz()">
+        Tente Novamente
+      </button>
+      <button type="button" class="btn" onclick="goToHome()">
+        Reiniciar
+      </button>
+    </div>
+    <script src="js/questions.js"></script>
+    <script src="app/app.js"></script>
+  </body>
+</html>

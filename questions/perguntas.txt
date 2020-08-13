@@ -1,0 +1,49 @@
+O que é um Privilégio?	
+
+É o que determina a um usuário ou grupo de usuários, quais dados e funções eles têm acesso e como podem manipular determinado dado.
+
+O que significa Formalização?
+
+Tornar oficial, de acordo com as normas do Banco em questão. Isso se dá através de papéis, documentos e outros meios. Físico (com o envio de papéis) ou digital (através do envio de fotos dos documentos).
+	
+Quais são os status de banco-empresa existentes?	
+
+Representa o status do contrato em referência à relação Banco x Correspondente, sinalizando ao usuário a etapa em que se encontra. 
+•	Cancelado
+•	Devolvido
+•	Em Análise
+•	Estornado
+•	Recebido do Banco
+•	Devolvido
+•	Pendente -> Não é usado e não será cobrado
+
+
+
+O que é o fechamento de Lote?	
+
+O fechamento de lote é o processo em que os contratos são juntados em um documento e preparados para envio para promotora.
+No sistema, você utilizará o fechamento de lote para realizar a formalização dos seus contratos. Gerando uma lista dos contratos (físico / documentação) que estão sendo enviados para corretor/promotora.
+           Além do lote, temos o lotão que tem a mesma função, porém são os contratos em formalização promotora/banco.
+
+
+Como funciona a Portabilidade?	
+
+Migrar o empréstimo de um banco a outro. O Banco 2, por exemplo, compra a dívida do Banco 1 e passa a receber o pagamento. Geralmente é feito com Refinanciamento.
+
+Explique o Seguro Prestamista.	
+
+Em caso de morte por qualquer causa ou invalidez permanente total decorrente de acidente (inclui desemprego), o seguro prestamista faz o pagamento da sua dívida e funeral em caso de óbito (podendo ser parcialmente pago em no caso de perda de emprego). Alguns bancos oferecem sorteios periodicamente para quem paga o seguro prestamista.
+_________________________________________________________________________
+
+           Seguro Prestamista é um dos produtos ofertados junto aos contratos, serve para assegurar o banco de que mesmo que o cliente não possa pagar (em caso de morte por qualquer causa ou invalidez permanente total decorrente de acidente (inclui desemprego)), o valor será quitado parcial ou completamente.
+Alguns bancos colocam esse seguro como obrigatório para ter mais segurança na operação. É comum a venda conjunta (ou casada).
+
+O que é IOF?
+
+Como o próprio nome já diz, o Imposto sobre Operações Financeiras, IOF, é um imposto federal pago por pessoas físicas e jurídicas em qualquer operação financeira, como operações de crédito, câmbio, seguro ou operações de títulos e valores mobiliários.
+Além de ser uma fonte de arrecadação do Governo, o IOF também é usado como uma forma de controlar a economia do país.
+
+O que é TAC?
+Essa é uma taxa que as instituições financeiras aplicam para a concessão de empréstimos e financiamentos. A justificativa é que esse valor serve para cobrir despesas com verificação de cadastro do cliente, que é essencial para a aprovação de crédito. 
+
+
